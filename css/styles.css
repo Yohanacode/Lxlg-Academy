@@ -1,0 +1,119 @@
+.logo{
+  width: 15%;
+  position: relative;
+  height: 15%;
+}
+#homepage-images, .statements{
+  padding: 0% 12%;
+}
+#features {
+  padding: 7% 12%;
+  background-color: #fff;
+  position: relative;
+}
+
+.carousel-img{
+  width: 60%;
+}
+
+body{
+  text-align: center;
+}
+.ic {
+  margin-right: 5px;
+  padding-bottom: 5px;
+}
+
+#footer{
+  background-color: Black;
+  color: white;
+
+}
+
+/* objectives */
+.objectives{
+  text-align: left;
+  background-color: #cccccc;
+  padding: 7% 12%;
+}
+
+#missionAndVision{
+  background-image: url("../images/anotherone.jpg");
+  margin: 0;
+  padding: 0;
+  opacity: 0.9;
+  background-repeat: none;
+  background-size:cover;
+  background-attachment: fixed;
+}
+.missionAndVisionBox{
+  padding: 7% 12%;
+  color: white;
+}
+
+.aboutus {
+  background-image: url("../images/shoess.jpg");
+  opacity: 1;
+  background-repeat: none;
+  background-size:cover;
+  background-attachment: fixed;
+}
+.aboutusBox, .history, .coach, .what-we-do-box {
+  padding: 7% 12%;
+  text-align: left;
+}
+
+.julio-img, .his-img{
+  width: 50%;
+  float: right;
+  padding-left: 3%;
+}
+
+/* contact us */
+
+
+#contact{
+  text-align: left;
+  padding: 7% 12%;
+  background-color: #cccccc;
+}
+
+.links{
+  color: white;
+}
+.links:hover{
+  color: green;
+}
+
+/*what we do section  */
+.what-we-do{
+  background-image: url("../images/randall.jpg");
+  opacity: 1;
+  background-repeat: none;
+  background-size:cover;
+  background-attachment: fixed;
+}
+
+
+/* card decks */
+
+.card-deck{
+  padding: 7% 12%;
+}
+
+
+/* youtube video */
+
+
+.youtube-video-box {
+  background-color: #f9f9f9;
+  padding: 7% 12%;
+
+}
+
+
+/* training and tournament */
+
+.training{
+  padding: 2% 12%;
+}
